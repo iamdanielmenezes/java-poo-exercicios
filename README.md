@@ -22,6 +22,9 @@ Programa que calcula área, perímetro e diagonal de um retângulo.
 3️⃣ Salário do Funcionário
 Sistema que calcula o salário final de um funcionário com base em aumento percentual.
 
+4️⃣ Conversor de Dólar  
+Programa que realiza a conversão de dólar para real incluindo taxa de IOF.
+
 ---
 
 🚀 Projeto desenvolvido para fins de estudo.
