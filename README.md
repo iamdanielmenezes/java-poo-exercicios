@@ -11,18 +11,18 @@ Os exercícios foram desenvolvidos com foco em:
 
 ---
 
-📚 Exercícios disponíveis
+## 📚 Exercícios Disponíveis
 
-1️⃣ Nota do Aluno: 
+### 1️⃣ Nota do Aluno  
 Sistema que calcula a nota final de um aluno e informa se ele foi aprovado ou reprovado.
 
-2️⃣ Retângulo: 
+### 2️⃣ Retângulo  
 Programa que calcula área, perímetro e diagonal de um retângulo.
 
-3️⃣ Salário do Funcionário: 
+### 3️⃣ Salário do Funcionário  
 Sistema que calcula o salário final de um funcionário com base em aumento percentual.
 
-4️⃣ Conversor de Dólar: 
+### 4️⃣ Conversor de Dólar  
 Programa que realiza a conversão de dólar para real incluindo taxa de IOF.
 
 ---
