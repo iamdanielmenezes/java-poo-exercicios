@@ -1,4 +1,4 @@
-package exercicioAdicionarProdutos;
+package exercicioAdicionarProduto;
 
 import java.util.Locale;
 import java.util.Scanner;
