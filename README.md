@@ -4,27 +4,44 @@ Repositório contendo exercícios resolvidos durante meus estudos de Java e Prog
 
 Os exercícios foram desenvolvidos com foco em:
 
-- Conceitos básicos de POO
-- Organização em pacotes
-- Separação entre entidades e classe principal
-- Boas práticas iniciais de estruturação de projeto
+* Conceitos básicos de POO
+* Organização em pacotes
+* Separação entre entidades e classe principal
+* Boas práticas iniciais de estruturação de projeto
+* Encapsulamento e utilização de getters e setters
+* Construtores com sobrecarga
+* Implementação de métodos para manipulação de dados
+* Aplicação de regras de negócio simples
 
 ---
 
 ## 📚 Exercícios Disponíveis
 
-### 1️⃣ Nota do Aluno  
+### 1️⃣ Nota do Aluno
+
 Sistema que calcula a nota final de um aluno e informa se ele foi aprovado ou reprovado.
 
-### 2️⃣ Retângulo  
+### 2️⃣ Retângulo
+
 Programa que calcula área, perímetro e diagonal de um retângulo.
 
-### 3️⃣ Salário do Funcionário  
+### 3️⃣ Salário do Funcionário
+
 Sistema que calcula o salário final de um funcionário com base em aumento percentual.
 
-### 4️⃣ Conversor de Dólar  
+### 4️⃣ Conversor de Dólar
+
 Programa que realiza a conversão de dólar para real incluindo taxa de IOF.
+
+### 5️⃣ Controle de Produto
+
+Sistema que realiza o cadastro de um produto com nome, preço e quantidade em estoque, permitindo adicionar e remover produtos e calcular o valor total em estoque.
+
+### 6️⃣ Conta Bancária
+
+Programa que realiza o cadastro de uma conta bancária permitindo depósito e saque, considerando depósito inicial opcional e taxa fixa aplicada em operações de saque.
 
 ---
 
 🚀 Projeto desenvolvido para fins de estudo.
+
