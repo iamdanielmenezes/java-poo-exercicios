@@ -1,4 +1,4 @@
-package exercicioChat;
+package exercicioAdicionarProdutos;
 
 import java.util.Locale;
 import java.util.Scanner;
